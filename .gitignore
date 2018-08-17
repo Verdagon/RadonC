@@ -1,0 +1,12 @@
+.idea/
+a.out
+a.out.dSYM/
+build.sbt
+lib/
+out/
+outvtables.ll
+project/
+target/
+test/net/verdagon/radonc/target/
+test/target/
+
